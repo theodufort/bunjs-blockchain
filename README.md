@@ -7,7 +7,7 @@ Main features coming from already existing blockchains were included in the code
 <ul>
  <li>Auto-Adjusting mining difficulty based on target block time.</li>
  <li>1% up/down adjustments each time a block is found to come close to the target block time in milliseconds.</li>
- <li>Easy swappable POW algo choice from [Bun's CryptoHasher library](https://bun.sh/docs/api/hashing).</li>
+ <li>Easy swappable POW algo choice from Bun's CryptoHasher library(https://bun.sh/docs/api/hashing/).</li>
 </ul>
 
 ## Installation
